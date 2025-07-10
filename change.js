@@ -1,2 +1,2 @@
 console.log('change.js');
-console.log('version 4 is new');
+console.log('version 5');
